@@ -9,8 +9,8 @@ from utils import (
     answer_query
 )
 
-st.set_page_config(page_title="AI Metadata Generator", layout="wide")
-st.title("AI Metadata Generator + GraphRAG")
+st.set_page_config(page_title="Metadata-Building-AI-Guidance", layout="wide")
+st.title("Metadata-Building-AI-Guidance V.1.0")
 
 if "documents" not in st.session_state:
     st.session_state.documents = []
