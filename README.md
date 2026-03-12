@@ -301,11 +301,3 @@ GitHub Repository.
 ```
 
 ---
-
-If you want, I can also **upgrade this README to a top-tier research software style**, including:
-
-* badges (Python / Streamlit / OpenAI)
-* architecture diagram
-* GraphRAG roadmap
-* citation section for papers
-* DOI-ready README for Zenodo.
